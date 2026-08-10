@@ -1,0 +1,45 @@
+# 源码目录（禁止上传）
+src/
+node_modules/
+vendor/
+dist/
+build/
+out/
+
+# 敏感文件
+.env
+.env.local
+license.json
+*.key
+*.pfx
+*.pem
+
+# 日志与缓存
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.DS_Store
+Thumbs.db
+
+# 编辑器
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 系统文件
+desktop.ini
+ntuser.dat*
+
+# 临时文件
+.tmp/
+.tmp-*/
+*.tmp
+
+# 除了 README、package.json、screenshots 外，其他都不上传
+# 如需添加其他展示文件，请手动取消注释
+# !docs/
+# !CHANGELOG.md
+
+---
