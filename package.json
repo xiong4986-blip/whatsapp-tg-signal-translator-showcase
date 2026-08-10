@@ -1,0 +1,21 @@
+{
+  "name": "multi-platform-translator",
+  "version": "1.0.0",
+  "description": "WhatsApp / Telegram / Signal 实时翻译工具，支持内联翻译与智能发送",
+  "author": "Your Name <your-email@example.com>",
+  "license": "PRIVATE",
+  "private": true,
+  "keywords": [
+    "translator",
+    "whatsapp",
+    "telegram",
+    "signal",
+    "electron",
+    "real-time-translation"
+  ],
+  "repository": {
+    "type": "git",
+
+    "url": "https://github.com/your-username/your-repo-name"
+  }
+}
