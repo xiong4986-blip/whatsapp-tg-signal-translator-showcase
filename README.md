@@ -14,7 +14,6 @@
 - ## 技术栈
 
 - Electron + Node.js
-- Lookworld WS 子应用协议（Signal 嵌入）
 - 原生窗口管理（Z 序控制）
 
 - ## 联系我
