@@ -103,10 +103,8 @@
 
 | 平台 | 联系方式 |
 |------|----------|
-|  Email | [your-email@example.com](mailto:your-email@example.com) |
-|  Telegram | [@your_username](https://t.me/your_username) |
-| 🐦 Twitter | [@your_username](https://twitter.com/your_username) |
-| 🌐 网站 | [your-website.com](https://your-website.com) |
+TG:@wu868868
+email:andrew9589@gmail.com
 
 ---
 
@@ -120,5 +118,4 @@
 - - 逆向工程、反编译
 
 如需使用，请联系作者获取授权。
-TG:@wu868868
-email:andrew9589@gmail.com
+
