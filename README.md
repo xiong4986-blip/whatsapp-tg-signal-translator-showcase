@@ -1,2 +1,28 @@
-# whatsapp-tg-signal-translator-showcase
-Real-time translator for WhatsApp, Telegram &amp; Signal with inline translation
+# 多平台消息翻译器
+
+一个集成 WhatsApp、Telegram、Signal 的实时翻译工具，支持内联翻译、智能发送、多账号管理。
+
+## 功能特性
+
+- 🌐 **三平台支持**：WhatsApp / Telegram / Signal 无缝切换
+- 💬 **实时翻译**：收消息自动翻译，内联显示原文+译文
+- ⌨️ **智能发送**：翻译条输入母语，自动翻译后发送
+-  **自定义样式**：独立颜色、字号设置
+- 🚫 **禁发中文**：防止误发中文消息
+- 📱 **多账号管理**：同时登录多个账号
+
+- ## 技术栈
+
+- Electron + Node.js
+- Lookworld WS 子应用协议（Signal 嵌入）
+- 原生窗口管理（Z 序控制）
+
+- ## 联系我
+
+- 📧 Email: andrew9589@gmail.com
+- 💬 Telegram: @wu868868
+
+
+---
+
+© 2026 保留所有权利。本项目为私有软件，仅供展示。
