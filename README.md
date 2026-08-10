@@ -44,7 +44,7 @@
 - **原生模块** - C++ 编写的窗口管理模块（Z 序控制）
 
 ### Signal 深度集成
-- **Lookworld WS 子应用协议** - 通过 WebSocket 驱动补丁版 Signal
+- **应用协议** - 通过 WebSocket 驱动补丁版 Signal
 - **覆盖式嵌入** - 将 Signal 窗口铺到主窗口内容区上方
 - **注入脚本** - 通过 `script.execute` 在 Signal 渲染进程执行翻译逻辑
 
