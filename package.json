@@ -1,9 +1,9 @@
 {
-  "name": "multi-platform-translator",
-  "version": "1.0.0",
-  "description": "WhatsApp / Telegram / Signal 实时翻译工具，支持内联翻译与智能发送",
-  "author": "Your Name <your-email@example.com>",
-  "license": "PRIVATE",
+  "name": "whatsapp-tg-signal-translator",
+  "version": "0.1.39",
+  "description": "WhatsApp / Telegram / Signal 实时翻译工具，支持内联翻译与智能发送（闭源软件，本仓库仅为介绍页）",
+  "author": "qianq",
+  "license": "UNLICENSED",
   "private": true,
   "keywords": [
     "translator",
@@ -16,6 +16,6 @@
   "repository": {
     "type": "git",
 
-    "url": "https://github.com/your-username/your-repo-name"
+    "url": "https://github.com/xiong4986-blip/whatsapp-tg-signal-translator-showcase"
   }
 }
